@@ -5,6 +5,8 @@
 
 - Estudiantes
 - Administración de la universidad
+- Equipo de mantenimiento
+- Seguridad del campus
 
 ## Requisitos Funcionales
 
