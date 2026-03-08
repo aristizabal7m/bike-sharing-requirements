@@ -3,6 +3,8 @@
 
 ## Stakeholders
 
+- Estudiantes
+- Administración de la universidad
 
 ## Requisitos Funcionales
 
