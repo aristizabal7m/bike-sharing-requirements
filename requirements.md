@@ -24,3 +24,6 @@
 - RNF1: El sistema debe garantizar la seguridad de los datos personales de los usuarios.
 - RNF2: El sistema debe ser escalable para incorporar nuevas estacipnes o bicicletas.
 - RNF3: El sistema debe ser accesible desde dispositivos móviles y navegadores web.
+- RNF4: El sistema debe tener una interfaz fácil de usar para los estudiantes.
+- RNF5: El sistema debe permitir el acceso solo a usuarios autorizados mediante autenticación.
+- RNF6: El sistema debe almacenar la información en una base de datos segura.
